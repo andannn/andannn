@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![andannn's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andannn&langs_count=8&layout=compact&theme=transparent)
 ![Andannn's GitHub stats](https://github-readme-stats.vercel.app/api?username=andannn&show_icons=true&theme=transparent)
